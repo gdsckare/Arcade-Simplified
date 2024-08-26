@@ -1,5 +1,5 @@
 # GSP234
-## Run in cloudshell
+## Run in Cloud Shell
 ```cmd
 export REGION=
 ```

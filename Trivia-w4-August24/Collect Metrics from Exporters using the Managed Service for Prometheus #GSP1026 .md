@@ -1,5 +1,5 @@
 # GSP1026
-## Run in cloudshell
+## Run in Cloud Shell
 ```cmd
 export ZONE=
 ```

@@ -1,5 +1,5 @@
 # GSP206
-## Run in cloudshell
+## Run in Cloud Shell
 ```cmd
 export REGION1=
 ```
