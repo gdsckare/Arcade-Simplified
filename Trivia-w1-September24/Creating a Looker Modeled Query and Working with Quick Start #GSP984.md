@@ -1,6 +1,6 @@
 # GSP984
 ## Paste the following In the training_ecommerce.model file
-```cmd
+```
 connection: "bigquery_public_data_looker"
 
 # include all the views
