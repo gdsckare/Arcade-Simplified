@@ -1,4 +1,22 @@
 # GSP984
+- First Login to `Looker` with the given credentials.
+In the Looker navigation menu, click Explore.
+
+Under E-Commerce Training, click Order Items.
+
+Select the fields below:
+
+Under Users > Dimensions, click State.
+Under Products > Dimensions, click Department.
+Under Users > Measures, click Count.
+Under Order Items > Measures, click Order Count.
+Under Users>Dimensions, find Country and click the filter icon (filter icon) next to it to filter on the dimension.
+
+In the Filter pane, set the Users Country filter to is equal to USA.
+
+In the Data pane, click on the column name Users Count to sort in descending order.
+
+Click Run and review the results data.
 ## Paste the following In the training_ecommerce.model file
 ```
 connection: "bigquery_public_data_looker"
