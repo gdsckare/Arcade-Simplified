@@ -72,7 +72,7 @@ explore: events {
 }
 ```
 
-## Enter a `Title` for the Look report
+### Enter a `Title` for the Look report
 ```code
 Order Items Count per State
 ```
